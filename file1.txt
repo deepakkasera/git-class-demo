@@ -1,4 +1,4 @@
-Deepak Kasera | Instructor @ Scaler.
+Deepak Kasera | Instructor
 11
 22
 Vikram is awesome.
@@ -17,3 +17,5 @@ SST
 Software Engineers.
 Gaurav is awesome.
 Scaler Bangalore
+
+Hello Sir
